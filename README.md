@@ -26,5 +26,4 @@ GitHub.dev provides a lightweight, browser-based environment to edit code and ma
 ### 🌟 Explore My Resume
 Check out my resume in this repository to learn more about my skills, projects, and experiences!
 
-### LIVE AT
-https://sakshichamola.github.io/Sakshi_chamola/
+
